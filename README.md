@@ -21,7 +21,7 @@ git clone https://github.com/jeanffc/santa-web.git
 2. Open the folder
 
 ```bash
-cd tesla-web
+cd santa-web
 ```
 
 3. Open the project folder on the text editor of your choice (eg Vim, Atom, Sublime, Visual Studio Code)
